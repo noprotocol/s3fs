@@ -36,7 +36,7 @@
   "dependencies": {
     "aws-sdk": "^2.477.0",
     "bluebird": "^3.5.5",
-    "extend": "~3.x"
+    "extend": "^3.0.2"
   },
   "devDependencies": {
     "buddy.js": "~0.x",
